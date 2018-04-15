@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ja\desktop\c++ zadania moodle\lab7\lab7\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab7.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\lab7\Debug\lab7.exe
+  lab7.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\lab7\Debug\lab7.pdb (Full PDB)
